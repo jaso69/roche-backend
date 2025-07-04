@@ -89,7 +89,7 @@ module.exports = async (req, res) => {
                 tiene configuradas dos ips con la ip: 192.168.0.5 y la segunda ip: 192.168.0.6
                 Tambien hay instalado un Control Flex, para el control del tricaster y camaras con la ip: 192.168.0.7
                 En la parte de audio hay un procesador de audio QSC Core-8 Flex, con la ip:192.168.0.10
-                Donde estan configurados como entrada a traves de dante los 4 microfonos de petaca Shure MXW1P
+                Donde estan configurados como entrada a traves de dante los 6 microfonos de petaca Shure MXW1P
                 Dos microfonos de mano Shure MXW2 HH SM58
                 Dos microfonos de atril MXWG8 GN
                 Tambien se ha configurado como entrada por usb la salida de audio del tricaster.
@@ -106,7 +106,7 @@ module.exports = async (req, res) => {
                 otro Shure MXWAPT-2, que se encuentran instalados en el techo del auditorio, encima del escenario, para garantizar la mayor cobertura y recepcion de los microfonos.
                 El Shure MXWAPT8 tiene configurada la ip:192.168.0.100 para su control y la ip:192.168.0.150 para la red dante.
                 El Shure MXWAPT-2 tiene configurada la ip:192.168.0.110 para su control y la ip:192.168.0.160 para la red dante.
-                El Shure MXWAPT-8 gestiona los 4 microfonos de petaca Shure MXW1P mas los 2 microfonos de mano Shure MXW2 HH SM58
+                El Shure MXWAPT-8 gestiona los 6 microfonos de petaca Shure MXW1P mas los 2 microfonos de mano Shure MXW2 HH SM58
                 El Shure MXWAPT-2 gestiona los 2 microfonos de atril MXWG8 GN
                 Para la gestion y configuracion de los puntos de acceso MXWAPT8 y MXWAPT2, se realiza a traves del software
                 Microflex Wireless Software, que se puede descargar desde el siguiente link: https://www.shure.com/es-ES/productos/software/microflex_wireless_software?variant=mxw_software
